@@ -7,3 +7,5 @@ mkdir build && cd build
 cmake ..
 cmake --build .
 ```
+
+made by @nooooow_ on discord
